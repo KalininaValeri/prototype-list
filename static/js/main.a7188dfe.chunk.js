@@ -595,9 +595,9 @@
                             variant: "permanent",
                             open: !0
                         }, n))), r.a.createElement("main", {className: t.content}, r.a.createElement(f.a, {
-                            path: "/SC/:category",
+                            path: "/prototype-list/SC/:category",
                             component: se
-                        }), r.a.createElement(f.a, {path: "/orders/:category", component: se}))))
+                        }), r.a.createElement(f.a, {path: "/prototype-list/orders/:category", component: se}))))
                     }
                 }]), t
             }(r.a.Component), me = Object(o.withStyles)(function (e) {
